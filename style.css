@@ -7,3 +7,9 @@
 body{
     background-color: red;
 }
+
+h1{
+    color: aqua;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
